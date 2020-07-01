@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Kamera", "Kamera\Kamera.vcproj", "{8BD3D2D9-6143-43F6-8822-AA6F1ACBF415}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BD3D2D9-6143-43F6-8822-AA6F1ACBF415}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8BD3D2D9-6143-43F6-8822-AA6F1ACBF415}.Debug|Win32.Build.0 = Debug|Win32
+		{8BD3D2D9-6143-43F6-8822-AA6F1ACBF415}.Release|Win32.ActiveCfg = Release|Win32
+		{8BD3D2D9-6143-43F6-8822-AA6F1ACBF415}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
